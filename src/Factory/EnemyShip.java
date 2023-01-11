@@ -1,4 +1,4 @@
-package FactoryPattern;
+package Factory;
 
 public abstract class EnemyShip {
 
